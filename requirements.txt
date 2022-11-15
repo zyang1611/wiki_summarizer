@@ -1,0 +1,5 @@
+flask
+requests
+nltk
+beautifulsoup4
+lxml
